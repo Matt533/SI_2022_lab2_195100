@@ -1,3 +1,4 @@
  # Матеј Љушев 195100
  # Control Flow Graph
-![Control Flow Graph LAB2](https://user-images.githubusercontent.com/59237104/167698852-ccff7bae-2e73-4901-92bb-c4aac5ce3242.png)
+![Control Flow Graph NEW Lab2](https://user-images.githubusercontent.com/59237104/167705608-d8f00cb3-2149-4347-87d1-3b7e70ee75ee.png)
+
